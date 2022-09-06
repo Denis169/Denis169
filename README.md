@@ -1,6 +1,6 @@
 # Hi, I'm Denis 👋
 Junior Software Engineer with 1 year of commertial experience. I have excellent knowledge in frontend development on JavaScript.
-I have great pleasure in teaching and working in this field
+I have great pleasure in teaching and working in this field.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Denis169&show_icons=true&count_private=true"><img
@@ -24,7 +24,7 @@ I have great pleasure in teaching and working in this field
 ## 🛠 Technical Stack
 *   JavaScript, React
 *   HTML, PUG, CSS, SCSS, SASS
-*   Node, NPM, Webpack, Redux, Next
+*   Node, NPM, Webpack, Redux, Next.js
 *   Figma
 *   GitHub/GitLab/Gerrit/Bitbucket
 
