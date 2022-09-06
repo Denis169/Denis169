@@ -20,3 +20,17 @@ I have great pleasure in teaching and working in this field
 <p align='center'>
    📫 How to reach me: <a href='mailto:denis6125038@gmail.com'>denis.logimahov@gmail.com</a>
 </p>
+
+## 🛠 Technical Stack
+*   JavaScript, React
+*   HTML, PUG, CSS, SCSS, SASS
+*   Node, NPM, Webpack, Redux, Next
+*   Figma
+*   GitHub/GitLab/Gerrit/Bitbucket
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/Denis169/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
+</div>
+
