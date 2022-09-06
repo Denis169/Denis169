@@ -14,7 +14,7 @@ I have great pleasure in teaching and working in this field
    <a href="https://www.linkedin.com/in/dzianis-lahimakhau-559083212/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/Denis_logimahov">
+   <a href="https://t.me/Denis_logimahov">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
