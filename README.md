@@ -30,7 +30,7 @@ I have great pleasure in teaching and working in this field
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/Denis169/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=Denis169&color=DE002D">
    </a>
 </div>
 
