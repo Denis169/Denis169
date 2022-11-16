@@ -18,7 +18,7 @@ I have great pleasure in teaching and working in this field.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:denis6125038@gmail.com'>denis.logimahov@gmail.com</a>
+   📫 How to reach me: <a href='mailto:denis6125038@gmail.com'>denis6125038@gmail.com</a>
 </p>
 
 ## 🛠 Technical Stack
